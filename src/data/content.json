@@ -1,0 +1,97 @@
+{
+  "tr": {
+    "hero": {
+  "name": "Almila",
+  "role": "full‑stack geliştirici",
+  "intro": "Merhaba! 👋",
+  "headline": "Ben {name}.",
+  "subheadline": "Ben bir {role}.",
+  "description": "Sağlam ve ölçeklenebilir frontend ürünleri geliştiriyorum. Hadi tanışalım!"
+},
+    "skills": [
+      { "name": "JavaScript", "label": "JAVASCRIPT", "icon": "js.png" },
+      { "name": "React", "label": "REACT", "icon": "react.png" },
+      { "name": "Redux", "label": "REDUX", "icon": "redux.png" },
+      { "name": "Node.js", "label": "NODE", "icon": "node.png" },
+      { "name": "VS Code", "label": "VS CODE", "icon": "vscode.png" },
+      { "name": "Figma", "label": "FIGMA", "icon": "figma.png" }
+    ],
+    "profile": {
+      "birth": "24.03.1996",
+      "city": "Ankara",
+      "education": "Hacettepe Ünv. Biyoloji Lisans, 2016",
+      "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
+      "role": "Frontend, UI"
+    },
+    "projects": [
+      {
+        "title": "Random Jokes",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Venian aut, odit laborum aliquam voluptatum nisi mollitia.",
+        "tags": ["react", "vercel", "axios", "router"],
+        "github": "#",
+        "demo": "#",
+        "image": "/project-2.png",
+        "darkBgColor": "#2D3235",
+        "bgColor": "#e7f0fa"
+      },
+      {
+        "title": "Are you bored?",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia minima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!",
+        "tags": ["react", "redux", "axios", "router", "vercel"],
+        "github": "#",
+        "demo": "#",
+        "image": "/project-1.png",
+        "darkBgColor": "#495351",
+        "bgColor": "#e6f7f3"
+      }
+    ]
+  },
+  "en": {
+    "hero": {
+  "name": "Almila",
+  "role": "full-stack developer",
+  "intro": "Hi! 👋",
+  "headline": "I’m {name}.",
+  "subheadline": "I’m a {role}.",
+  "description": "I can craft solid and scalable frontend products."
+},
+    "skills": [
+      { "name": "JavaScript", "label": "JAVASCRIPT", "icon": "js.png" },
+      { "name": "React", "label": "REACT", "icon": "react.png" },
+      { "name": "Redux", "label": "REDUX", "icon": "redux.png" },
+      { "name": "Node.js", "label": "NODE", "icon": "node.png" },
+      { "name": "VS Code", "label": "VS CODE", "icon": "vscode.png" },
+      { "name": "Figma", "label": "FIGMA", "icon": "figma.png" }
+    ],
+    "profile": {
+      "birth": "24.03.1996",
+      "city": "Ankara",
+      "education": "Hacettepe Ünv. Biyoloji Lisans 2016",
+      "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
+      "role": "Frontend, UI"
+    },
+    "projects": [
+      {
+        "title": "Random Jokes",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Venian aut, odit laborum aliquam voluptatum nisi mollitia.",
+        "tags": ["react", "vercel", "axios", "router"],
+        "github": "#",
+        "demo": "#",
+         "image": "/project-2.png",
+         "darkBgColor": "#2D3235",
+        "bgColor": "#e7f0fa"
+        
+      },
+      {
+        "title": "Are you bored?",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia minima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!",
+        "tags": ["react", "redux", "axios", "router", "vercel"],
+        "github": "#",
+        "demo": "#",
+        "image": "/project-1.png",
+        "darkBgColor": "#495351",
+        "bgColor": "#e6f7f3"
+      }
+    ]
+  }
+}
